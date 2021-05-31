@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```C
-int main()
-{
+int main() {
   printf("Hello world!");
 }
 ```
@@ -25,6 +24,6 @@ My name is Jaehong Ju.
 I am a student of Kyungpook Univ.  
 I am currently interested in AI, Game Dev, Drawing.  
 You can contact me in one of those languages:  
-Korean(fluent), Japanese(Intermediate), Chinese(Intermediate), English(Intermediate);  
+Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), English(Intermediate), Spanish(Beginner);  
   
 wnwoghd22@gmail.com
