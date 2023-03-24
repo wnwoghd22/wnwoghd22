@@ -29,7 +29,9 @@ I am currently interested in AI, Game Dev, Drawing.
 You can contact me in one of those languages:  
 Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), English(Intermediate), Spanish(Beginner);  
   
-# Skills
+wnwoghd22@gmail.com
+
+## Skills
 <p>
   <img src="https://img.shields.io/badge/C++-orange?logo=C%2B%2B"/>
   <img src="https://img.shields.io/badge/C%23-orange?logo=C Sharp"/>
@@ -37,5 +39,8 @@ Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), Eng
 <p>
   <img src="https://img.shields.io/badge/Unity-lightgrey?logo=Unity"/>
 </p>
-  
-wnwoghd22@gmail.com
+
+## Statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnwoghd22&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnwoghd22&layout=compact&theme=github_dark)
