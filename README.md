@@ -31,6 +31,6 @@ Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), Eng
   
 # Skills
 
-<img src="https://img.shields.io/badge/C++-green?logo=c++"/>
+<img src="https://img.shields.io/badge/C++-green?logo=C++"/>
   
 wnwoghd22@gmail.com
