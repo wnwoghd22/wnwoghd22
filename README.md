@@ -30,7 +30,12 @@ You can contact me in one of those languages:
 Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), English(Intermediate), Spanish(Beginner);  
   
 # Skills
-
-<img src="https://img.shields.io/badge/C++-green?logo=C%2B%2B"/>
+<p>
+  <img src="https://img.shields.io/badge/C++-orange?logo=C%2B%2B"/>
+  <img src="https://img.shields.io/badge/C%23-orange?logo=C Sharp"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Unity-lightgrey?logo=Unity"/>
+</p>
   
 wnwoghd22@gmail.com
