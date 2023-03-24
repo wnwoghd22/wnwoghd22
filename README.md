@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+badge
+<img src="https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>"/>
 -->
 ```C
 int main() {
@@ -25,5 +28,9 @@ I am a student of Kyungpook Univ.
 I am currently interested in AI, Game Dev, Drawing.  
 You can contact me in one of those languages:  
 Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), English(Intermediate), Spanish(Beginner);  
+  
+# Skills
+
+<img src="https://img.shields.io/badge/C++-green?logo=c++"/>
   
 wnwoghd22@gmail.com
