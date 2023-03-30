@@ -44,3 +44,5 @@ wnwoghd22@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnwoghd22&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wnwoghd22&layout=compact&theme=github_dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnwoghd22)](https://solved.ac/wnwoghd22/)
+
