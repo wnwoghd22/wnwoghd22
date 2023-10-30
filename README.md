@@ -23,6 +23,8 @@ int main() {
 }
 ```
 
+[link](https://mire-giraffe-6df.notion.site/6b13930604954681a326b666cb9a2c9b?pvs=4)
+
 My name is Jaehong Ju.  
 I am a student of Kyungpook Univ.  
 I am currently interested in AI, Game Dev, Drawing.  
