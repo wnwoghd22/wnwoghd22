@@ -27,19 +27,21 @@ int main() {
 
 My name is Jaehong Ju.  
 I am a student of Kyungpook Univ.  
-I am currently interested in AI, Game Dev, Drawing.  
+I am currently interested in AI, Web development.  
 You can contact me in one of those languages:  
-Korean(fluent), Japanese(High - Intermediate), Chinese(High - Intermediate), English(Intermediate), Spanish(Beginner);  
+Korean(fluent), English(High - Intermediate),  Japanese(High - Intermediate), Chinese(Intermediate), Spanish(Beginner);  
   
 wnwoghd22@gmail.com
 
 ## Skills
 <p>
   <img src="https://img.shields.io/badge/C++-orange?logo=C%2B%2B"/>
-  <img src="https://img.shields.io/badge/C%23-orange?logo=C Sharp"/>
+  <img src="https://img.shields.io/badge/java-007396?logo=Java"/>
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python"/>
+  <img src="https://img.shields.io/badge/JS-yellow?logo=javascript"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Unity-lightgrey?logo=Unity"/>
+  <img src="https://img.shields.io/badge/Spring-green?logo=Spring"/>
 </p>
 
 ## Statistics
